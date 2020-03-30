@@ -1,0 +1,2 @@
+google==2.0.3
+random_user_agent==1.0.1
