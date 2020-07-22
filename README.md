@@ -1,5 +1,8 @@
 # Trelloboy
 
+![](images/51c52688-9e22-4d73-8207-e6692a358aa8.jpg)
+
+
 A google dork automatization tool for Trello
 
 1. Run  pip install -r requirements.txt
