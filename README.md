@@ -10,4 +10,9 @@ A google dork automatization tool for Trello
 
 Just add the word your looking for and it will complete a google dork to find public trello boards, have fun!
 
-NullWin
+Polem4rch
+
+
+Are you looking for a flag?
+
+h4ck3d22_{R4bb1tH0l3}
